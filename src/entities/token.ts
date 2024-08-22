@@ -68,7 +68,7 @@ export const WETH9: { [chainId in ChainId]: Token } = {
   ),
   [ChainId.OPBNB]: new Token(
     ChainId.OPBNB,
-    '0xf83Ac369ddC04946b37D328f4337656508508182',
+    '0x9e7682995BA0ec9fe386773CeFE1deb251ce1069',
     18,
     'WETH9',
     'Wrapped Ether'
